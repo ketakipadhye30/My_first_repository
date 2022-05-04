@@ -8,7 +8,7 @@
 	//if (($varref == SITE_DOMAIN) ||($varref == 'www.'.SITE_DOMAIN))
 	
 	// check to see if verificaton code was correct
-	// Testing Purpose 4 May 2022 
+	// Testing Purpose 4 May 2022 ... Test By Ketaki
 	if (!empty($_POST))
 		{
 		//process form here
